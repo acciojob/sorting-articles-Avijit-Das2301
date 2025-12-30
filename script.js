@@ -1,4 +1,3 @@
-//your JS code here. If required.
 const bands=[
 	"The Plot in You",
 	"The Devil Wears Prada",
